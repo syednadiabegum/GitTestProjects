@@ -1,0 +1,121 @@
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\ApplicationInsights.config
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\csc.exe
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\vbc.exe
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\VBCSCompiler.exe
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll.config
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.pdb
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.dll
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.DependencyCollector.dll
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.Web.dll
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.WindowsServer.dll
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.ApplicationInsights.dll
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.dll
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.dll
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.dll
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.dll
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.dll
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.dll
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\WebGrease.dll
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.DependencyCollector.xml
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.Web.xml
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.WindowsServer.xml
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.ApplicationInsights.xml
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.xml
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.xml
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.xml
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.xml
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.xml
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.pdb
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.xml
+C:\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+C:\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\EntityFramework.dll
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+C:\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csprojResolveAssemblyReference.cache
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\PagedList.dll
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
+C:\Projects\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\ApplicationInsights.config
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\csc.exe
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Collections.Immutable.dll
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\vbc.exe
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\VBCSCompiler.exe
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\VBCSCompiler.exe.config
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll.config
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.pdb
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.dll
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\EntityFramework.dll
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.DependencyCollector.dll
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.Web.dll
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.WindowsServer.dll
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.ApplicationInsights.dll
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.dll
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\PagedList.dll
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.dll
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.dll
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.dll
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.dll
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.dll
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\WebGrease.dll
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.DependencyCollector.xml
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.Web.xml
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.WindowsServer.xml
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.ApplicationInsights.xml
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.xml
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.xml
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.xml
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.xml
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.xml
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.pdb
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.xml
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+C:\Nadia Projects\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
